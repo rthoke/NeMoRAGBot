@@ -20,7 +20,7 @@ Before running the project, ensure you have the following installed:
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/username/NeMoRAGBot.git
+   git clone https://github.com/rthoke/NeMoRAGBot.git
    cd NeMoRAGBot
   
 2. Install dependencies:
